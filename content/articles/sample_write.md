@@ -4,7 +4,7 @@
   "slug": "your-article-title",
   "category": "Technology",
   "date": "YYYY-MM-DD",
-  "status": "draft",
+  "status": "published",
   "description": "A concise summary shown on the homepage.",
   "keywords": "search terms separated by spaces",
   "featured": false
