@@ -1,9 +1,0 @@
-{
-  "name": "omnia-publication",
-  "private": true,
-  "type": "module",
-  "scripts": {
-    "build": "node scripts/build.mjs",
-    "preview": "npm run build && python3 -m http.server 8000 --directory docs"
-  }
-}
