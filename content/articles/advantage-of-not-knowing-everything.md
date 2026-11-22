@@ -1,6 +1,6 @@
 ---
 {
-  "title": "The of No Everything",
+  "title": "The Advantage of Not Everything",
   "slug": "advantage-of-not-knowing-everything",
   "category": "Technology",
   "date": "2026-11-21",
