@@ -23,33 +23,7 @@ window.OMNIA_CONTENT = {
     heading: "Explore the journal.",
     description: "A growing collection of subjects and questions across disciplines. Choose a field, or follow a thought wherever it leads.",
     cards: [
-      {
-        category: "technology",
-        label: "Technology",
-        number: "01",
-        title: "Beyond the known",
-        description: "What happens when intelligence can draw on humanity's accumulated knowledge — and where does discovery go next?",
-        footer: "Artificial intelligence · Research",
-        keywords: "artificial intelligence human research knowledge discovery future machines"
-      },
-      {
-        category: "science",
-        label: "Science",
-        number: "02",
-        title: "The language of patterns",
-        description: "From physical systems to living networks, why do similar structures appear across seemingly distant fields?",
-        footer: "Patterns · Interdisciplinary thinking",
-        keywords: "science interdisciplinary connections patterns nature systems physics"
-      },
-      {
-        category: "philosophy",
-        label: "Philosophy",
-        number: "03",
-        title: "Knowing is not understanding",
-        description: "Information can be collected. Understanding asks something harder: how do the pieces fit, and what follows from them?",
-        footer: "Knowledge · Perspective",
-        keywords: "knowledge understanding information wisdom philosophy meaning"
-      }
+      
     ]
   },
   thoughts: {
